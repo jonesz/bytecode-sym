@@ -1,0 +1,3 @@
+[submodule "ext/stp"]
+	path = ext/stp
+	url = https://github.com/stp/stp
